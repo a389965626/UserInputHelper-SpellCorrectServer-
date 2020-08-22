@@ -1,0 +1,7 @@
+myip 172.25.214.250
+myport 8888
+mythreadNum 10
+myqueSize 10
+mydict /home/chenjunyu/20180708-item1/data/dictionary.txt
+myindex /home/chenjunyu/20180708-item1/data/indexfile.txt
+mycache /home/chenjunyu/20180708-item1/data/mycache
